@@ -1,4 +1,4 @@
-# Assalam-o-Alaikum! I'm Hafiz Muhammad Ahmad 👋
+# Assalam-o-Alaikum! I'm Hafiz Muhammad Ahmad 
 
 I am a **Computer Science student at FAST-NUCES** with a passion for building scalable full-stack web applications and robust mobile experiences. I enjoy turning complex problems into intuitive software solutions.
 
